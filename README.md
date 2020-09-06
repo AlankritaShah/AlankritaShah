@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Alankrita's github stats](https://github-readme-stats.vercel.app/api?username=AlankritaShah&hide=issues&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlankritaShahe&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlankritaShah)](https://github.com/anuraghazra/github-readme-stats)
