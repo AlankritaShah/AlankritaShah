@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scheduling work with WorkManager](https://proandroiddev.com/scheduling-work-with-workmanager-42002df82a70?source=rss-4d986e34ba77------2)
+- [Getting started with WorkManager](https://medium.com/@alankrita18.as/getting-started-with-workmanager-a9e32dc3d75c?source=rss-4d986e34ba77------2)
 <!-- BLOG-POST-LIST:END -->
