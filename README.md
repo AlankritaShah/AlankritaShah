@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+![Alankrita's github stats](https://github-readme-stats.vercel.app/api?username=AlankritaShah&hide=issues&count_private=true&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlankritaShah)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlankritaShah&hide=issues&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlankritaShah" />
+</a>
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Scheduling work with WorkManager](https://proandroiddev.com/scheduling-work-with-workmanager-42002df82a70?source=rss-4d986e34ba77------2)
 - [Getting started with WorkManager](https://medium.com/@alankrita18.as/getting-started-with-workmanager-a9e32dc3d75c?source=rss-4d986e34ba77------2)
 <!-- BLOG-POST-LIST:END -->
-
-![Alankrita's github stats](https://github-readme-stats.vercel.app/api?username=AlankritaShah&hide=issues&count_private=true&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlankritaShah)](https://github.com/anuraghazra/github-readme-stats)
