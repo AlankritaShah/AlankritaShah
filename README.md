@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - [Getting started with WorkManager](https://medium.com/@alankrita18.as/getting-started-with-workmanager-a9e32dc3d75c?source=rss-4d986e34ba77------2)
 <!-- BLOG-POST-LIST:END -->
 
-![Alankrita's github stats](https://github-readme-stats.vercel.app/api?username=AlankritaShah)
+![Alankrita's github stats](https://github-readme-stats.vercel.app/api?username=AlankritaShah&hide=issues&count_private=true&show_icons=true&theme=dracula)
